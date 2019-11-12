@@ -4,14 +4,11 @@ TED is a nonpartisan nonprofit devoted to spreading ideas, usually in the form o
 
 Given its recent popularity, there are numerous events being organised for TED talk and conferences and there are more than 3000 TED Talks currently available on internet.
 
-A detailed analysis of the talks would be a lot helpful to the current speakers, potential speakers and to all the viewers interested in listening to some quality talks.
+A detailed analysis of the talks would be a lot helpful to the Current speakers, Potential speakers and TED talks Organization.
 
 ---
 Our project aims at :
-
-* Providing detailed analysis on which TED Talks have larger number of views, which talks create maximum debate.
-* Insights on the trending topics by analysing which topic and which tags get the maximum views, comments and ratings.
-* Building a predictive model to analyse which video will get more views.
+**Building a predictive model to analyse what would be the features of a popular TED talk**
 ---
 
 The dataset that has been used for performing exploratory and predictive data analysis has been web scrapped from the official [TED Talks](www.ted.com) website.
